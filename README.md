@@ -1,2 +1,2 @@
 # Conjectura-de-Collartz
-Algorítimo da conjectura de Collartz
+Algorítmo da conjectura de Collartz
